@@ -1,2 +1,2 @@
 # csharp
-Part codes for csharp programmers
+Part codes for Csharp programmers
